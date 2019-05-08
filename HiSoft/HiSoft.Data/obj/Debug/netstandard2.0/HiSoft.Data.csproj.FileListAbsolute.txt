@@ -1,0 +1,12 @@
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\bin\Debug\netstandard2.0\HiSoft.Data.deps.json
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\bin\Debug\netstandard2.0\HiSoft.Data.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.csproj.CoreCompileInputs.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.AssemblyInfoInputs.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.AssemblyInfo.cs
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.csprojAssemblyReference.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\bin\Debug\netstandard2.0\HiSoft.Data.pdb
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\bin\Debug\netstandard2.0\HiSoft.Model.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\bin\Debug\netstandard2.0\HiSoft.Model.pdb
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.csproj.CopyComplete
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Data\obj\Debug\netstandard2.0\HiSoft.Data.pdb

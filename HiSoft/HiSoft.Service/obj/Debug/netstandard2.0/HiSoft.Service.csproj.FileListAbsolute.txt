@@ -1,0 +1,14 @@
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.csprojAssemblyReference.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.csproj.CoreCompileInputs.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.AssemblyInfoInputs.cache
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.AssemblyInfo.cs
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Service.deps.json
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Service.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Service.pdb
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Data.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Model.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Data.pdb
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\bin\Debug\netstandard2.0\HiSoft.Model.pdb
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.csproj.CopyComplete
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.dll
+F:\GitHub\HiSoft\HiSoft\HiSoft.Service\obj\Debug\netstandard2.0\HiSoft.Service.pdb
